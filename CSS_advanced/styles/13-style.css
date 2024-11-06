@@ -41,7 +41,7 @@ a[href] {
   text-decoration: none;
 }
 
-a[href]:visit {
+a[href]:visited {
   font-style: italic;
 }
 
