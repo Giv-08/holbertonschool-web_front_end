@@ -69,7 +69,7 @@ body {
 }
 
 .nav .nav-item {
-  font-family: var(--nav);
+  font-family: var(--nav-item-font-family);
 }
 
 a:link {
