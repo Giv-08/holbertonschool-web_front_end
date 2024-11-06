@@ -26,11 +26,6 @@
   --section-title-color: var(--color-black);
 }
 
-/* Universal box-sizing rule */
-* {
-  box-sizing: border-box;
-}
-
 html {
   scroll-behavior: smooth;
   font-size: 62.5%;
