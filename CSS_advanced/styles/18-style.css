@@ -81,9 +81,11 @@ body {
   display: block;
   padding-top: 50%;
   padding-bottom: 50%;
+  padding-right: 100%;
+  padding-left: 100%;
 }
 
-nav .nav-link:hover {
+.nav .nav-link:hover {
   color: var(--nav-item-link-hover);
 }
 a:link {
