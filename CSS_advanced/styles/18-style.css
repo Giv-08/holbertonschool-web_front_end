@@ -79,7 +79,8 @@ body {
 
 .nav .nav-link {
   display: block;
-  padding: calc(0.5 * 1rem) calc(1 * 1rem);
+  padding-top: calc(0.5 * 1rem);
+  padding-bottom: calc(0.5 * 1rem);
 }
 
 .nav .nav-link:hover {
