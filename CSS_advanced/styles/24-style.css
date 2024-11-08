@@ -152,7 +152,7 @@ a:active {
   margin: var(--section-tagline-margin);
 }
 
-.class-services.card-title {
+.card-services .card-title {
   margin: 0;
 }
 
