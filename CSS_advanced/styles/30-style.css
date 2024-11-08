@@ -299,7 +299,7 @@ ul.row {
   width: 50%;
 }
 
-.card-work .card-image {
+.card-work .card-image img {
   height: 30rem;
   width: 100%;
   object-fit: cover;
